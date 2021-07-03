@@ -14,6 +14,6 @@ Pronouns: He/Him
 Location: Bangalore, IN
 Languages: Python, C, C++ 
 Tech: PyTorch, Deepstream, Docker, Linux
-Work: Machani Robotics
+Fields: Deep Learning
 Hobbies: Writing, Gaming
 ```
